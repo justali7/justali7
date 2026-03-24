@@ -1,4 +1,4 @@
-# 💫 About MeI
+# 💫 About Me:
 I am a Data Scientist with strong expertise in machine learning, deep learning, and data-driven problem solving.  <br>I specialize in transforming complex datasets into actionable insights and building scalable predictive models for real-world applications.<br><br>My experience covers the full data science lifecycle — from data collection and preprocessing to advanced modeling, evaluation, and deployment.  <br>I have worked with a wide range of techniques including supervised and unsupervised learning, feature engineering, model optimization, and deep learning architectures.<br><br>I am highly proficient in Python and its data science ecosystem, including Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch.  <br>I also have experience in working with large datasets, designing efficient pipelines, and applying best practices in model validation and performance tuning.<br><br>I am passionate about solving complex problems, continuously improving my skills, and building intelligent systems that create real impact.
 
 
